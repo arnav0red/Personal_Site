@@ -1,0 +1,33 @@
+{
+    "jobs": [
+        {
+            "id": 0,
+            "name": "test",
+            "start_date": "01.01.2021",
+            "end_date": "01.12.2021",
+            "rank":-1,
+            "description":"text",
+            "tags":["tag1","tag2","tag3"]
+        },
+        {
+            "id": 1,
+            "name": "test1",
+            "start_date": "02.01.2021"
+        }
+        
+    ],
+    "projects": [
+        {
+            "id": 0,
+            "name": "proj1",
+            "start_date": "01.01.2021"
+        },
+        {
+            "id": 1,
+            "name": "proj2",
+            "start_date": "02.01.2021"
+        }
+        
+    ]
+    
+}
