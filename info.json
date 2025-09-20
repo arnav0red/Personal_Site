@@ -1,20 +1,87 @@
 {
-    "jobs": [
+    "comments": "rank: -1: invalid, 1-3:don't show, 4-6: important to show",
+    "bio": {
+        "title": "System Administration Internship for Center for High Throughput Computing (CHTC), Undergraduate Researcher and Junior at UW-Madison",
+        "about": "I am a rising senior in Computer Science with a double minor in Math and Data Science. I am open to learning new and challenging things, and tackling and learning from them. My short-term goal is to find a platform where I can initiate my career and grow alongside the organization.",
+        "contact_info": {
+            "email": "arnav.mohakud@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/arnavmohakud/",
+            "github": "https://github.com/arnav0red/"
+        }
+    },
+    "experience": [
         {
-            "id": 0,
-            "name": "test",
-            "start_date": "01.01.2021",
-            "end_date": "01.12.2021",
-            "rank":-1,
-            "description":"text",
-            "tags":["tag1","tag2","tag3"]
+            "employer": "text",
+            "title": "text",
+            "start_date": "00.09.2022",
+            "end_date": "00.12.2023",
+            "rank": -1,
+            "description": "text",
+            "tags": []
+        },
+        {
+            "employer": "Rheta's Dining",
+            "title": "Cashier",
+            "start_date": "00.09.2022",
+            "end_date": "00.12.2023",
+            "rank": 1,
+            "description": "Worked as Cashier for Rheta's Dining Market",
+            "tags": []
+        },
+        {
+            "employer": "STADA Arzneimittel AG, Germany",
+            "title": "Global Data Science & Analytics Intern",
+            "start_date": "00.05.2023",
+            "end_date": "00.08.2023",
+            "rank": 5,
+            "description": "Leveraged Alteryx, SQL, and Snowflake to build data pipelines, transforming raw pharmaceutical market data into structured, actionable insights for predictive modeling.\n Utilized Python for data cleaning, preprocessing, and model development, enhancing data quality and predictive accuracy.\n Created interactive visualizations in Tableau to communicate key findings, enabling data-driven decision-making",
+            "tags": [
+                "Python",
+                "Alteryx",
+                "Tableau",
+                "SQL",
+                "Snowflake"
+            ]
+        },
+        {
+            "employer": "Research",
+            "title": "Microstructural Materials Modeling, ",
+            "start_date": "00.09.2023",
+            "end_date": "00.12.2023",
+            "rank": 4,
+            "description": "Developed and implemented Python-based analysis of lattice structures using SOAP descriptor methodology, generating reports to support research insights.",
+            "tags": [
+                "Python",
+                "DScribe",
+                "SOAP"
+            ]
+        },
+        {
+            "employer": "Research",
+            "title": "Artificial Intelligence Research, ",
+            "start_date": "00.09.2023",
+            "end_date": "99.00.0000",
+            "rank": 5,
+            "description": "Researched and documented applications of AI in educational material for Data Science, providing data-driven recommendations for curriculum enhancement.",
+            "tags": [
+                "Python",
+                "AI"
+            ]
+        },
+        {
+            "employer": "Center for High Throughput Computing (CHTC)",
+            "title": "Systems Administrator Intern",
+            "start_date": "00.09.2022",
+            "end_date": "00.12.2023",
+            "rank": 6,
+            "description": "text",
+            "tags": []
         },
         {
             "id": 1,
             "name": "test1",
             "start_date": "02.01.2021"
         }
-        
     ],
     "projects": [
         {
@@ -27,7 +94,26 @@
             "name": "proj2",
             "start_date": "02.01.2021"
         }
-        
+    ],
+    "education": [
+        {
+            "name": "University of Wisconsin-Madison",
+            "start_date": "00.09.2022",
+            "end_date": "00.05.2026",
+            "rank": 1,
+            "description": "Bachelor of Science: Computer Science\nCertificates/Minors: Data Science, Mathematics",
+            "tags": [
+                "Data Structures",
+                "Database Systems",
+                "Operating Systems",
+                "Modern Cryptography",
+                "Intro to Computer Systems",
+                "Data Management",
+                "Machine Learning",
+                "Computer Graphics",
+                "Game Development"
+            ],
+            "gpa": 3.872
+        }
     ]
-    
 }
